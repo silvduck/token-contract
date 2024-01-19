@@ -1,2 +1,2 @@
-# token-contract
-Contract (solidity) that follow the ERC-721 standard
+# ERC-721 Token in Solidity
+
